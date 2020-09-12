@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBack">#FFFFFF</color>
+
+    <color name="nashiColor">#009966</color>
+
+    <color name="cream_background">#E3D7A3</color>
+    <color name="cream_background_thin">#FFFFE6</color>
+    <color name="black_background">#000000</color>
+    <color name="blue_link">#0000FF</color>
+
+    <color name="gray">#808080</color>
+</resources>

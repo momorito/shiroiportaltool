@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_office">
+        <item>白井市役所（代表）</item>
+        <item>047-492-1111</item>
+        <item>白井市復1123</item>
+    </string-array>
+
+    <!--  本庁舎１階　-->
+    <string-array name="shimin_koseki">
+        <item>市民課 戸籍班</item>
+        <item>047-401-3825</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="shimin_shimin">
+        <item>市民課 市民班</item>
+        <item>047-401-3846</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="hoken_zei">
+        <item>保険年金課 保険税班</item>
+        <item>047-401-3918</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="hoken_hoken">
+        <item>保険年金課 保険年金班</item>
+        <item>047-401-3942</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="kaikei_kaikei">
+        <item>会計課 会計班</item>
+        <item>047-401-3622</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="kourei_shien">
+        <item>高齢者支援課 高齢者支援班</item>
+        <item>047-497-3484</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <string-array name="kourei_kaigo">
+        <item>高齢者支援課 介護保険班</item>
+        <item>047-497-3473</item>
+        <item>本庁舎1階</item>
+    </string-array>
+
+    <!--  東庁舎１階　-->
+
+    <string-array name="shikatu_shikatsu">
+        <item>市民活動支援課 市民活動支援係</item>
+        <item>047-401-4078</item>
+        <item>東庁舎1階</item>
+    </string-array>
+
+    <string-array name="shikatu_anzen">
+        <item>市民活動支援課 市民安全班</item>
+        <item>047-401-4081</item>
+        <item>東庁舎1階</item>
+    </string-array>
+
+    <string-array name="machisapo">
+        <item>しろい市民まちづくりサポートセンター</item>
+        <item>047-401-3729</item>
+        <item>東庁舎1階</item>
+    </string-array>
+
+    <!--  本庁舎２階　-->
+    <string-array name="kazei_shimin">
+        <item>課税課 市民税班</item>
+        <item>047-401-4576</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="kazei_kotei">
+        <item>課税課 固定資産税班</item>
+        <item>047-401-4586</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="shuzei_shuzei">
+        <item>収税課 収税班</item>
+        <item>047-401-4104</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="sangyo_nousei">
+        <item>産業振興課 農政班</item>
+        <item>047-401-4631</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="sangyo_shoukou">
+        <item>産業振興課 商工振興班</item>
+        <item>047-401-4641</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="sangyo_shouhi">
+        <item>産業振興課 消費生活センター</item>
+        <item>047-401-8793</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="nougyo_nouchi">
+        <item>農業委員会 農地班</item>
+        <item>047-401-4602</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="kiki_kiki">
+        <item>危機管理課 危機管理班</item>
+        <item>047-401-4650</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <!--  東庁舎２階　-->
+    <string-array name="kenchiku_kenchiku">
+        <item>建築宅地課 建築班</item>
+        <item>047-401-4675</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="kenchiku_takuchi">
+        <item>建築宅地課 宅地班</item>
+        <item>047-401-4679</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="toshi_keikaku">
+        <item>都市計画課 計画整備係</item>
+        <item>047-401-4682</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="toshi_kouen">
+        <item>都市計画課 公園緑地班</item>
+        <item>047-401-4691</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="toshi_koutsuu">
+        <item>都市計画課 交通政策班</item>
+        <item>047-401-4695</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="douro_iji">
+        <item>道路課 維持管理係</item>
+        <item>047-401-5147</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="douro_kensetsu">
+        <item>道路課 建設班</item>
+        <item>047-401-5164</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="douro_youchi">
+        <item>道路課 用地班</item>
+        <item>047-401-5202</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="jouge_gyoumu">
+        <item>上下水道課 業務班</item>
+        <item>047-401-5203</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="jouge_koumu">
+        <item>上下水道課 工務班</item>
+        <item>047-401-5379</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="kankyo_kankyo">
+        <item>環境課 環境保全・放射線対策班</item>
+        <item>047-401-5409</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <string-array name="kankyo_kirei">
+        <item>環境課 きれいなまちづくり班</item>
+        <item>047-401-5429</item>
+        <item>東庁舎2階</item>
+    </string-array>
+
+    <!--  本庁舎３階　-->
+    <string-array name="soumu_gyousei">
+        <item>総務課 行政係</item>
+        <item>047-401-5974</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="soumu_jinji">
+        <item>総務課 人事係</item>
+        <item>047-401-5976</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="hisho_hisho">
+        <item>秘書課 秘書班</item>
+        <item>047-401-7240</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="hisho_koucho">
+        <item>秘書課 公聴・魅力発信班</item>
+        <item>047-401-6913</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="koukyou_kanzai">
+        <item>公共施設マネジメント課 管財班</item>
+        <item>047-401-6243</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="koukyou_koukyou">
+        <item>公共施設マネジメント課 公共施設マネジメント班</item>
+        <item>047-401-5438</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="zaisei_zaisei">
+        <item>財政課 財政班</item>
+        <item>047-401-6658</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="zaisei_keiyaku">
+        <item>財政課 契約検査班</item>
+        <item>047-401-6598</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <string-array name="kikaku_kikaku">
+        <item>企画政策課 企画政策班</item>
+        <item>047-401-8453</item>
+        <item>本庁舎2階</item>
+    </string-array>
+
+    <!--  東庁舎３階　-->
+    <string-array name="kyouikusoumu_soumu">
+        <item>教育総務課 総務班</item>
+        <item>047-401-8729</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="kyouikusoumu_shisetsu">
+        <item>教育総務課 施設班</item>
+        <item>047-401-8751</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="shougaigakushu_shakai">
+        <item>生涯学習課 社会教育班</item>
+        <item>047-401-8942</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="shougaigakushu_sports">
+        <item>生涯学習課 スポーツ振興班</item>
+        <item>047-401-8953</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="shougaigakushu_bunka">
+        <item>生涯学習課 文化班</item>
+        <item>047-492-1123</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="gakkouseisaku_seisaku">
+        <item>学校政策課 政策班</item>
+        <item>047-401-9445</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="kyouikushien_shien">
+        <item>教育支援課 支援班</item>
+        <item>047-401-9471</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="kansa_kansa">
+        <item>監査委員事務局 監査班</item>
+        <item>047-401-9490</item>
+        <item>東庁舎3階</item>
+    </string-array>
+
+    <string-array name="gikai_shomu">
+        <item>議会事務局 庶務班</item>
+        <item>047-491-6164</item>
+        <item>東庁舎4階</item>
+    </string-array>
+
+    <!--  保健福祉センター１階　-->
+    <string-array name="kourei_chiiki">
+        <item>高齢者福祉課 地域包括支援センター</item>
+        <item>047-497-3474</item>
+        <item>保健福祉センター1階</item>
+    </string-array>
+
+    <string-array name="kodomohattatsu">
+        <item>こども発達センター</item>
+        <item>047-497-3489</item>
+        <item>保健福祉センター1階</item>
+    </string-array>
+
+    <string-array name="kenkou_zoushin">
+        <item>健康増進ルーム</item>
+        <item>047-497-3476</item>
+        <item>保健福祉センター1階</item>
+    </string-array>
+
+    <!--  保健福祉センター１階　-->
+    <string-array name="shakai_kousei">
+        <item>社会福祉課 厚生係</item>
+        <item>047-497-3482</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shakai_seikatsu">
+        <item>社会福祉課 生活支援班</item>
+        <item>047-497-3491</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shakai_kurasapo">
+        <item>社会福祉課 くらしと仕事のサポートセンター</item>
+        <item>047-497-3650</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shougaihukushi_kyuuhu">
+        <item>障害福祉課 給付・支援班</item>
+        <item>047-497-3483</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shougaihukushi_chiiki">
+        <item>障害福祉課 障害者地域活動支援センター</item>
+        <item>047-497-3485</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shougaihukushi_shuuro">
+        <item>障害福祉課 障害者就労支援班</item>
+        <item>047-497-3497</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="shougaihukushi_challange">
+        <item>障害福祉課 チャレンジドオフィス</item>
+        <item>047-497-3472</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="hoiku_hoiku">
+        <item>保育課 保育班</item>
+        <item>047-497-3488</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="kosodate_shien">
+        <item>子育て支援課 子育て支援班</item>
+        <item>047-497-3487</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="kosodate_katei">
+        <item>子育て支援課 家庭児童相談室</item>
+        <item>047-497-3477</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="kenkou_kenkou">
+        <item>健康課 健康づくり推進係</item>
+        <item>047-497-3477</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+    <string-array name="kenkou_hoken">
+        <item>健康課 保健予防・母子保健班</item>
+        <item>047-497-3495</item>
+        <item>保健福祉センター3階</item>
+    </string-array>
+
+
+    <string-array name="call_list">
+        <item>@array/city_office</item>
+        <item>@array/shimin_koseki</item>
+        <item>@array/shimin_shimin</item>
+        <item>@array/hoken_zei</item>
+        <item>@array/hoken_hoken</item>
+        <item>@array/kaikei_kaikei</item>
+        <item>@array/kourei_shien</item>
+        <item>@array/kourei_kaigo</item>
+        <item>@array/shikatu_shikatsu</item>
+        <item>@array/shikatu_anzen</item>
+        <item>@array/machisapo</item>
+        <item>@array/kazei_shimin</item>
+        <item>@array/kazei_kotei</item>
+        <item>@array/shuzei_shuzei</item>
+        <item>@array/sangyo_nousei</item>
+        <item>@array/sangyo_shoukou</item>
+        <item>@array/sangyo_shouhi</item>
+        <item>@array/nougyo_nouchi</item>
+        <item>@array/kiki_kiki</item>
+        <item>@array/kenchiku_kenchiku</item>
+        <item>@array/kenchiku_takuchi</item>
+        <item>@array/toshi_keikaku</item>
+        <item>@array/toshi_kouen</item>
+        <item>@array/toshi_koutsuu</item>
+        <item>@array/douro_iji</item>
+        <item>@array/douro_kensetsu</item>
+        <item>@array/douro_youchi</item>
+        <item>@array/jouge_gyoumu</item>
+        <item>@array/jouge_koumu</item>
+        <item>@array/kankyo_kankyo</item>
+        <item>@array/kankyo_kirei</item>
+        <item>@array/soumu_gyousei</item>
+        <item>@array/soumu_jinji</item>
+        <item>@array/hisho_hisho</item>
+        <item>@array/hisho_koucho</item>
+        <item>@array/koukyou_kanzai</item>
+        <item>@array/koukyou_koukyou</item>
+        <item>@array/zaisei_zaisei</item>
+        <item>@array/zaisei_keiyaku</item>
+        <item>@array/kikaku_kikaku</item>
+        <item>@array/kyouikusoumu_soumu</item>
+        <item>@array/kyouikusoumu_shisetsu</item>
+        <item>@array/shougaigakushu_shakai</item>
+        <item>@array/shougaigakushu_sports</item>
+        <item>@array/shougaigakushu_bunka</item>
+        <item>@array/gakkouseisaku_seisaku</item>
+        <item>@array/kyouikushien_shien</item>
+        <item>@array/kansa_kansa</item>
+        <item>@array/gikai_shomu</item>
+        <item>@array/kourei_chiiki</item>
+        <item>@array/kodomohattatsu</item>
+        <item>@array/kenkou_zoushin</item>
+        <item>@array/shakai_kousei</item>
+        <item>@array/shakai_seikatsu</item>
+        <item>@array/shakai_kurasapo</item>
+        <item>@array/shougaihukushi_kyuuhu</item>
+        <item>@array/shougaihukushi_chiiki</item>
+        <item>@array/shougaihukushi_shuuro</item>
+        <item>@array/shougaihukushi_challange</item>
+        <item>@array/hoiku_hoiku</item>
+        <item>@array/kosodate_shien</item>
+        <item>@array/kosodate_katei</item>
+        <item>@array/kenkou_kenkou</item>
+        <item>@array/kenkou_hoken</item>
+    </string-array>
+
+</resources>

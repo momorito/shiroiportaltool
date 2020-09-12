@@ -1,0 +1,161 @@
+<resources>
+    <!-- アクティビティ共通 -->
+    <string name="app_name">白井市ポータル</string>
+
+    <!-- IntroActivity -->
+    <string name="sns_name">　○公式SNS</string>
+
+    <!-- (1)右上メニューボタン -->
+    <string name="about">About</string>
+    <string name="opensource_license">Opensource Licenses</string>
+
+    <!-- MainActivity -->
+    <string name="navigation_drawer_open"></string>
+    <string name="navigation_drawer_close"></string>
+    <string name="home_page">白井市ホームページ</string>
+
+    <!-- (1)左ドロワーメニュー -->
+    <string name="menu_title">メニュー</string>
+    <string name="menu_favorite">お気に入り</string>
+
+    <string name="menu_top">トップへ戻る</string>
+    <string name="menu_news">新着情報</string>
+    <string name="menu_newspaper">広報しろい</string>
+    <string name="menu_gikai">白井市議会映像配信</string>
+
+    <string name="menu_mail">メール配信サービス</string>
+    <string name="menu_bousai">しろい防災ポータル</string>
+
+    <string name="menu_tel">047-492-1111(代表)</string>
+    <string name="menu_tel_bousai">0120-980-775</string>
+
+
+    <!-- Help -->
+    <string name="menu_item1">About</string>
+    <string name="whatsAppAlert">このアプリについて</string>
+    <string name="version_code">VersionInfo</string>
+    <string name="helpMessage1">Created by momorito 2019-</string>
+    <string name="helpMessage2">※本アプリケーションは千葉県白井市の公式ではありません。</string>
+    <string name="giveMessage">問い合わせや機能追加のご相談等は、下記からお願いします。</string>
+    <string name="mailFor">問い合わせ</string>
+    <string name="mailText">tanikina.apps@gmail.com</string>
+    <string name="public_twitter">作者Twitter</string>
+    <string name="twitterAc">＠momorito</string>
+    <string name="policy">プライバシーポリシー</string>
+    <string name="help_close">閉じる</string>
+
+    <string name="favorite_use">○新着情報について</string>
+    <string name="favorite_use_message">市のホームページの新着情報を引っ張ってきています。</string>
+
+    <string name="menu_item5">設定</string>
+    <string name="menu_item2">ポータルトップへ戻る</string>
+    <string name="menu_item3">更新</string>
+    <string name="menu_item4">共有</string>
+    <string name="open_other_browser">外部ブラウザで開く</string>
+    <!-- 右上メニューボタン　ここまで -->
+
+    <!-- NewsActivity -->
+    <string name="NewsActivityLabel">新着情報</string>
+    <string name="openNormal">開く</string>
+    <string name="openOtherBrowser">開く（外部ブラウザ）</string>
+
+
+    <string name="whatsAppOk">閉じる</string>
+
+    <!-- 終了ダイアログ用 ここから -->
+    <string name="finishAlert">確認</string>
+    <string name="returnMessage">戻りますか</string>
+    <string name="returnMessage_end">終了しますか</string>
+    <string name="returnYes">はい</string>
+    <string name="returnNo">いいえ</string>
+    <!-- 終了ダイアログ用 ここまで -->
+
+    <!-- 設定画面　ここから -->
+    <string name="settingLabel">設定</string>
+    <string name="setting_otherApps">外部アプリの利用（SNS）</string>
+    <string name="setting_otherAppsInst">
+        白井市の各種SNS（Twitter、Facebook、Instagram、LINE）について、外部アプリを利用します。
+        外部アプリがインストールされていない場合、うまく動かない場合があります。
+    </string>
+    <string name="setting_expansion">拡大・縮小機能</string>
+    <string name="setting_expansionInst">
+        ホームページを表示する際、拡大・縮小機能を利用します。
+        Androidのバージョンにより、うまく動かない場合があります。
+    </string>
+    <string name="force_SmartPhoneView">強制的にスマートフォン表示にする</string>
+    <string name="force_SmartPhoneViewInst">
+        ホームページを表示する際、PC用ページだった場合でもスマートフォン表示に変更します。
+        （スマートフォン対応ページが存在しない場合、エラーとなります）
+    </string>
+
+
+    <string name="setting_backButton">OK</string>
+    <!-- 設定画面　ここまで-->
+
+    <!-- favorite -->
+    <string name="favorite_backButton">OK</string>
+    <string name="favorite_add">お気に入りに追加</string>
+    <string name="favoriteLabel">お気に入り</string>
+    <string name="favoriteClearCheck">お気に入りから削除</string>
+    <string name="favoriteClearCheckMessage">この項目をお気に入りから削除しますか？</string>
+    <string name="favoriteHelp">ヘルプ</string>
+
+    <!-- CallActivity -->
+    <string name="CallActivity_name">市役所各課直通番号</string>
+    <string name="call_help">ヘルプ</string>
+
+    <string name="finishApp">終了</string>
+    <string name="NowLoading">読込中…</string>
+    <string name="Settings">設定</string>
+
+    <!-- TOPICS表示用　-->
+    <string name="covid19">TOPICS</string>
+
+    <!-- search_dialog　-->
+    <string name="search_dialog_search">検索</string>
+    <string name="search_cancel">キャンセル</string>
+    <string name="search_hint_hp">ページ名で検索できます</string>
+    <string name="search_hint_call">課などの名称で検索できます</string>
+
+    <!-- map_search_dialog　-->
+    <string name="busstop_search">バス停検索</string>
+    <string name="bus_inst_search">バス停をタップすると時刻表を表示します</string>
+    <string name="bus_inst_start">バス停をタップして出発地を選択してください</string>
+    <string name="bus_inst_arrive">バス停をタップして到着地を選択してください</string>
+    <string name="busstop_hint">バス停名で検索できます</string>
+    <string name="busstop_cancel">キャンセル</string>
+
+    <!-- map_search_dialog　-->
+    <string name="diagram_activity_title">時刻表検索</string>
+    <string name="diagram_activity_inst">白井市が運行するコミュニティバス「ナッシー号」の時刻表検索です。（平成29年8月1日改正版）</string>
+    <string name="start">出発</string>
+    <string name="arrive">到着</string>
+    <string name="kara">から</string>
+    <string name="made">まで</string>
+    <string name="time">時間</string>
+    <string name="departure">出発</string>
+    <string name="search">検索</string>
+    <string name="from_map">地図から</string>
+    <string name="reload_diagram">時刻表再読み込み</string>
+    <string name="diagram_inst_2">うまく動作しない場合、右上ボタンから「時刻表再読み込み」を押してください。</string>
+
+    <string name="diagram_inst">運行状況等については、市の公式ホームページを確認してください。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_diagram">DiagramActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Ads　-->
+    <string name="ad_code">YOUR_CODE</string>
+    <string name="ad_unit_id">YOUR_UNIT_ID</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group_0" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_top"
+            android:icon="@drawable/baseline_house_black_18dp"
+            android:title="@string/menu_top" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/menu_favorite" />
+    </group>
+
+    <group android:id="@+id/group_1">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/baseline_wb_incandescent_black_18dp"
+            android:title="@string/menu_news" />
+        <item
+            android:id="@+id/nav_newspaper"
+            android:icon="@drawable/baseline_chrome_reader_mode_black_18dp"
+            android:title="@string/menu_newspaper" />
+        <item
+            android:id="@+id/nav_gikai"
+            android:icon="@drawable/baseline_ondemand_video_black_18dp"
+            android:title="@string/menu_gikai" />
+    </group>
+
+    <item android:title="関連リンク">
+        <menu>
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/ic_email_white_24dp"
+                android:title="@string/menu_mail" />
+            <item
+                android:id="@+id/nav_bousai"
+                android:icon="@drawable/ic_bousai_white_24dp"
+                android:title="@string/menu_bousai" />
+        </menu>
+    </item>
+</menu>
