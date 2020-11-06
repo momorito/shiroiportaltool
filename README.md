@@ -1,18 +1,20 @@
 # Androidアプリ「白井市ポータル」
 
-## このアプリは？
+## ○このアプリは？
 Android上で動作する[白井市](http://www.city.shiroi.chiba.jp/toppage.html)のホームページを閲覧したりする機能を持つアプリケーションです。
 
-## 主な機能
-### ホームページ閲覧機能
+## ○主な機能
+### ・ホームページ閲覧機能
+白井市公式ホームページを確認することができます。また、ショートカットメニューから「メール配信サービス」や「しろい防災ポータル」、「白井市議会映像配信」などにアクセス可能です。
 
-### 新着情報閲覧機能
+### ・新着情報閲覧機能
+白井市公式ホームページで新規掲載された情報をRSSで取得し、閲覧ができます。
 
-### ナッシー号検索機能
+### ・ナッシー号検索機能
+白井市コミュニティバス「ナッシー号」のバス停検索及び時刻表検索機能が利用できます。
 
-### 電話機能
-
-### 各種SNSアクセス機能
+### ・電話機能
+### ・各種SNSアクセス機能
 
 ## ダウンロード
-[Google Playからダウンロード](https://play.google.com/store/apps/details?id=jp.tanikinaapps.shiroiportaltools)
+[Google Play](https://play.google.com/store/apps/details?id=jp.tanikinaapps.shiroiportaltools)
