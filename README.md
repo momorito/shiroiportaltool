@@ -16,5 +16,5 @@ Android上で動作する[白井市](http://www.city.shiroi.chiba.jp/toppage.htm
 ### ・電話機能
 ### ・各種SNSアクセス機能
 
-## ダウンロード
+## ・ダウンロード
 [Google Play](https://play.google.com/store/apps/details?id=jp.tanikinaapps.shiroiportaltools)
